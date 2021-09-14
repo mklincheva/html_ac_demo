@@ -415,7 +415,7 @@ button {
 
 .catalog-wedding {
     background-image: linear-gradient(to right, rgba(174,124,120,0.6), rgba(174,124,120,0.6)),
-    url(../files/catalog-wedding.jpg);
+    url('../files/catalog-wedding.jpg');
     background-repeat: no-repeat,
     no-repeat;
     background-position: right,
@@ -424,7 +424,7 @@ button {
 
 .catalog-peonies {
     background-image: linear-gradient(to right, rgba(174,124,120,0.6), rgba(174,124,120,0.6)),
-    url(../files/catalog-peonies.jpg);
+    url('../files/catalog-peonies.jpg');
     background-repeat: no-repeat,
     no-repeat;
     background-position: right,
@@ -433,7 +433,7 @@ button {
 
 .catalog-choose {
     background-image: linear-gradient(to right, rgba(174,124,120,0.6), rgba(174,124,120,0.6)),
-    url(../files/catalog-choose.jpg);
+    url('../files/catalog-choose.jpg');
     background-repeat: no-repeat,
     no-repeat;
     background-position: right,
@@ -570,19 +570,19 @@ button {
 .follow-instagram {
     display: block;
     width: 20px;
-    background: url("../img/icon-instagram.svg") no-repeat center;
+    background: url('../img/icon-instagram.svg') no-repeat center;
 }
 
 .follow-facebook {
     display: block;
     width: 12px;
-    background: url("../img/icon-facebook.svg") no-repeat center;
+    background: url('../img/icon-facebook.svg') no-repeat center;
 }
 
 .follow-twitter {
     display: block;
     width: 26px;
-    background: url("../img/icon-twitter.svg") no-repeat center;
+    background: url('../img/icon-twitter.svg') no-repeat center;
 }
 
 
@@ -740,17 +740,17 @@ button {
 .footer-instagram {
     display: block;
     width: 20px;
-    background: #AE7C78 url("../img/icon-instagram-white.svg") no-repeat center;
+    background: #AE7C78 url('../img/icon-instagram-white.svg') no-repeat center;
 }
 
 .footer-facebook {
     display: block;
     width: 12px;
-    background: #AE7C78 url("../img/icon-facebook-white.svg") no-repeat center;
+    background: #AE7C78 url('../img/icon-facebook-white.svg') no-repeat center;
 }
 
 .footer-twitter {
     display: block;
     width: 26px;
-    background: #AE7C78 url("../img/icon-twitter-white.svg") no-repeat center;
+    background: #AE7C78 url('../img/icon-twitter-white.svg') no-repeat center;
 }
